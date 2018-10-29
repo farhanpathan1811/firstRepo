@@ -32,5 +32,5 @@ public class CRSConstants
 	public static final int STATUS_USABLE=1;
 	
 	//View Names
-	public static final String loginViewName= "Login";
+	public static final String loginViewName= "Login";/////
 }
